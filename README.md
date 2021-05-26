@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## First Workshop on Ontology-Driven Conceptual Modelling of Digital Twins (ODCM-DT)
+(in conjunction with Semantics 2021)
 
-You can use the [editor on GitHub](https://github.com/odcm-dt-2021/odcm-dt-2021.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Themes and goals 
+The concept of Digital Twin is becoming increasingly popular since it has been introduced in the scope of Smart Industry (Industry 4.0). A Digital Twin of a concrete system is the digital counterpart (representation) of this system, and has many potential benefits for simulation, prediction, analysis and visualization, to mention just a few. The ultimate purpose of Digital Twins is to improve decision making for solving real world problems, by using the digital model to create the information necessary for decision-making and subsequently applying the decisions in the real world. Nowadays, Digital Twins are not limited to industrial applications, but are spreading to other areas as well, such as, for example, in the healthcare domain, in personalised medicine and in clinical trials for drug development.
 
-### Markdown
+This workshop aims at getting a better understanding of the concept of Digital Twin and its applications in different domains, by means of ontological analysis. In this workshop we welcome contributions that aim at introducing formal definitions of Digital Twin, but also contributions that formalise the application of Digital Twin in different domains. Contributions on ontology-based tooling for Digital Twins are also welcome.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Motivation
+Digital Twin is a concept that connects concrete systems to digital representations. In a sense, Digital Twins are the similar to ontologies (semantic models), but instead of mapping the real world to conceptual representations, these representations are codified in terms of computer systems and models. By taking the path from systems to their Digital Twins through explicit ontological grounding, we expect that the suitability and expressiveness of these Digital Twins will increase. 
 
-```markdown
-Syntax highlighted code block
+### Deadlines 
 
-# Header 1
-## Header 2
-### Header 3
+- Submission Deadline: July 1, 2021 (11:59 pm, Hawaii time)
+- Notification of Acceptance:	July 22, 2021 (11:59 pm, Hawaii time)
+- Camera-Ready Paper:	August 5, 2021 (11:59 pm, Hawaii time)
 
-- Bulleted
-- List
+### Workshop organisers
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/odcm-dt-2021/odcm-dt-2021.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Marten van Sinderen, m.j.vansinderen@utwente.nl
+- Luís Ferreira Pires, l.ferreirapires@utwente.nl
