@@ -21,8 +21,9 @@ Submitted papers should follow the guidelines of Springer LNCS format and have a
 
 ## Programme Committee (preliminary)
 
+- Giancarlo Guizzardi, University of Twente, the Netherlands
 - Geert Poels, Ghent University, Belgium
 - Erik Proper, University of Luxembourg
 - Bran Selic, Monash University, Australia
 - Miguel-Angel Sicilia, University of Alcalà, Spain
-- Giancarlo Guizzardi, University of Twente, the Netherlands
+- Hans Vangheluwe, University of Antwerp, Belgium
