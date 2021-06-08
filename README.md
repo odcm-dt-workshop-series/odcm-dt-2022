@@ -12,6 +12,8 @@ Digital Twin is a concept that connects concrete systems to digital representati
 - Notification of Acceptance:	July 22, 2021 (11:59 pm, Hawaii time)
 - Camera-Ready Paper:	August 5, 2021 (11:59 pm, Hawaii time)
 
+Submission link: https://easychair.org/conferences/?conf=odcmdt2021
+
 ## Workshop Organisers
 
 - Marten van Sinderen (m.j.vansinderen@utwente.nl), University of Twente, the Netherlands
