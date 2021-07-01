@@ -8,9 +8,9 @@ Digital Twin is a concept that connects concrete systems to digital representati
 
 ## Deadlines 
 
-- Submission Deadline: July 1, 2021 (11:59 pm, Hawaii time)
-- Notification of Acceptance:	July 22, 2021 (11:59 pm, Hawaii time)
-- Camera-Ready Paper:	August 5, 2021 (11:59 pm, Hawaii time)
+- (Extended) Submission Deadline: July 11, 2021 (11:59 pm, Hawaii time)
+- Notification of Acceptance:	July 30, 2021 (11:59 pm, Hawaii time)
+- Camera-Ready Paper:	August 10, 2021 (11:59 pm, Hawaii time)
 
 Submitted papers should follow the guidelines of Springer LNCS format and have a maximum length of 12 pages. The papers have to be submitted electronically via EasyChair at <https://easychair.org/conferences/?conf=odcmdt2021>.
  
