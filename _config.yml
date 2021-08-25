@@ -1,3 +1,4 @@
 title: Ontology-Driven Conceptual Modelling of Digital Twins (ODCM-DT 2021)
 description: In conjunction with Semantics 2021
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: minimal
