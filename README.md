@@ -18,7 +18,7 @@ Digital Twin is a concept that connects concrete systems to digital representati
 - Marten van Sinderen (m.j.vansinderen@utwente.nl), University of Twente, the Netherlands
 - Luís Ferreira Pires (l.ferreirapires@utwente.nl), University of Twente, the Netherlands
 
-## Programme Committee (preliminary)
+## Programme Committee
 - Giancarlo Guizzardi, University of Twente, the Netherlands
 - Geert Poels, Ghent University, Belgium
 - Erik Proper, University of Luxembourg
