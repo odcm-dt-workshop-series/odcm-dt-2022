@@ -1,5 +1,6 @@
 # First Workshop on Ontology-Driven Conceptual Modelling of Digital Twins (ODCM-DT 2021)
 
+
 ## Themes and Goals
 The concept of Digital Twin is becoming increasingly popular since it has been introduced in the scope of Smart Industry (Industry 4.0). A Digital Twin of a concrete system is the digital counterpart (representation) of this system, and has many potential benefits for simulation, prediction, analysis and visualization, to mention just a few. The ultimate purpose of Digital Twins is to improve decision making for solving real world problems, by using the digital model to create the information necessary for decision-making and subsequently applying the decisions in the real world. Nowadays, Digital Twins are not limited to industrial applications, but are spreading to other areas as well, such as, for example, in the healthcare domain, in personalised medicine and in clinical trials for drug development.
 
