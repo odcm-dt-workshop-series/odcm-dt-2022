@@ -9,14 +9,21 @@ This workshop aims at getting a better understanding of the concept of Digital T
 ## Motivation
 Digital Twin is a concept that connects concrete systems to digital representations. In a sense, Digital Twins are the similar to ontologies (semantic models), but instead of mapping the real world to conceptual representations, these representations are codified in terms of computer systems and models. By taking the path from systems to their Digital Twins through explicit ontological grounding, we expect that the suitability and expressiveness of these Digital Twins will increase. 
 
-## Deadlines 
-- (Extended) Submission Deadline: July 11, 2021 (11:59 pm, Hawaii time, passed)
-- Notification of Acceptance:	July 30, 2021 (11:59 pm, Hawaii time, passed)
-- Camera-Ready Paper:	August 10, 2021 (11:59 pm, Hawaii time, passed)
-
-## Workshop date, time and location
+## Date, time and location
 - 6 September 2021, 9:00-12:30, Theater de Meervaart, Meer en Vaart 300, 1068 LE Amsterdam (and online)
- 
+
+## (Preliminary) Programme
+
+-9:00-9:30 Judith Michael. Model-Driven Software Engineering of Digital Twins (Invited presentation)
+- 9:30-10:00 Claudio Barros, Rebecca Salles, Eduardo Ogasawara, Giancarlo Guizzardi, Fabio Porto. Requirements for an Ontology of Digital Twins (Workshop paper presentation)
+- 10:00-10:30 Bentley Oakes, Bart Meyers, Dennis Janssens, Hans Vangheluwe. Structuring and Accessing Knowledge for Historical and Streaming Digital Twins  (Workshop paper presentation)
+
+- 10:30-11:00 Break
+
+- 11:00-11:30 Henderik A. Proper, Dominik Bork, Geert Poels. Towards an Ontology-Driven Approach for Digital Twin Enabled Governed IT Management (Workshop paper presentation)
+- 11:30-12:00 Vinay Kulkarni. Digital Twins for decision making in the face of uncertainty – a step toward Adaptive Enterprise (Invited presentation)
+- 12:00-12:30 Discussion
+
 ## Workshop Organisers
 - Marten van Sinderen (m.j.vansinderen@utwente.nl), University of Twente, the Netherlands
 - Luís Ferreira Pires (l.ferreirapires@utwente.nl), University of Twente, the Netherlands
