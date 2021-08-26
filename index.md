@@ -14,7 +14,7 @@ Digital Twin is a concept that connects concrete systems to digital representati
 
 ## (Preliminary) Programme
 
--9:00-9:30 Judith Michael. Model-Driven Software Engineering of Digital Twins (Invited presentation)
+- 9:00-9:30 Judith Michael. Model-Driven Software Engineering of Digital Twins (Invited presentation)
 - 9:30-10:00 Claudio Barros, Rebecca Salles, Eduardo Ogasawara, Giancarlo Guizzardi, Fabio Porto. Requirements for an Ontology of Digital Twins (Workshop paper presentation)
 - 10:00-10:30 Bentley Oakes, Bart Meyers, Dennis Janssens, Hans Vangheluwe. Structuring and Accessing Knowledge for Historical and Streaming Digital Twins  (Workshop paper presentation)
 
