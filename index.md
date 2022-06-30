@@ -13,7 +13,7 @@ Digital Twin is a concept that connects concrete systems to digital representati
 - 13-15 September 2022, Vienna (and online)
 
 ## Important dates
-- 27 June 2022: Submission deadline (https://easychair.org/conferences/?conf=odcmdt2022)
+- 27 June 2022: Submission deadline [Submission page](https://easychair.org/conferences/?conf=odcmdt2022)
 - 18 July 2022: Notification of acceptance
 - 1 August 2022: Camera ready paper
 
